@@ -1,35 +1,23 @@
-# real-world-vue
+# Learn Vue Project
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a simple Vue.js project that demonstrates basic functionality such as navigating between views, using Axios for API calls, and showcasing Vue.js fundamentals, you will find the live demo [here](https://learn-vue-iz79.onrender.com/).
 
 ## Project Setup
 
-```sh
-npm install
-```
+1. Clone the repository:
 
-### Compile and Hot-Reload for Development
+   ```bash
+   git clone https://github.com/your-username/learn-vue.git
+2. Navigate to the project directory:
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+    ```bash
+    cd lean-vue
+    ```
+3. Install dependencies:    
+    ```bash
+    npm install
+    ```
+## Project Structure
+- src/views: Contains the main views of the application.   
+- src/components: Houses Vue components used in the views.   
+- src/services: Includes services, such as Axios for API calls.  
